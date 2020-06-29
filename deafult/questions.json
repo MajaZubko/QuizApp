@@ -1,0 +1,32 @@
+﻿[
+    {
+      "question": "Kiedy Kingusia ma urodziny?",
+      "image":"images/deer.png",
+      "music":"",
+      "choice1": "10 lipca",
+      "choice2": "1 września",
+      "choice3": "27 sierpnia",
+      "choice4": "14 luty",
+      "answer": 1
+    },
+    {
+      "question":"gfdgsdfgsdfhgdfsgdsfgdsfgds",
+        "image":"",
+        "music":"sounds/audio.mp3",
+        "choice1": "",
+      "choice2": "",
+      "choice3": "",
+      "choice4": "",
+      "answer": 3
+    },
+    {
+      "question": "gdfgsdfgdsfgsdfgsdgf",
+      "image":"images/deer.png",
+      "music":"",
+      "choice1": "",
+      "choice2": "",
+      "choice3": "",
+      "choice4": "",
+      "answer": 4
+    }
+  ]

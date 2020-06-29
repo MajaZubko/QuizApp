@@ -1,0 +1,242 @@
+﻿[
+	{
+		"question": "O czym był ten odcinek?",
+		"image": "images/derby.jpg",
+		"music": "",
+		"choice1": "Miłosie grają na wrotkowym disco",
+		"choice2": "Wyścigi deskorolkowe w parku z babcią Fineasza i Ferba",
+		"choice3": "Wrotkowe Derby między babcią Fineasza i Ferba a babcią Jeremiasza",
+		"choice4": "Nauka bezpiecznej jazdy na deskorolce",
+		"answer": 3
+	},
+	{
+		"question": "O czym był ten odcinek?",
+		"image": "images/rcs.png",
+		"music": "",
+		"choice1": "Szkolna szynszyla krążyła po domach uczniów przez weekendy",
+		"choice2": "Szkolny chomik umarł i miał uroczyste pożegnanie wielu pokoleń uczniów",
+		"choice3": "Szkolna świnka morska zjadła pracę domową jednego z uczniów",
+		"choice4": "Szkolny szczurek nauczył się sztuczek",
+		"answer": 2
+	},
+	{
+		"question": "O czym był ten odcinek?",
+		"image": "images/ldw.png",
+		"music": "",
+		"choice1": "Starsi koledzy Ludwiczka obrzucili go balonami z wodą",
+		"choice2": "Ludwiczek wpadł w kałużę wysiadając z autobusu",
+		"choice3": "Przeciwnik Ludwiczka oblał go wiadrem wody",
+		"choice4": "Wielka ulewa zalała sąsiedztwo i wszyscy schowali się u Ludwiczka",
+		"answer": 4
+	},
+	{
+		"question": "Jak on się nazywał?",
+		"image": "images/tim.png",
+		"music": "",
+		"choice1": "Andrew 'Andy' Anderson",
+		"choice2": "Thomas 'Tommy' Anderson",
+		"choice3": "Daniel 'Danny' Anderson",
+		"choice4": "John 'Johnny' Anderson",
+		"answer": 2
+	},
+	{
+		"question": "Jak ona się nazywała?",
+		"image": "images/spin.png",
+		"music": "",
+		"choice1": "Jessie McCoy",
+		"choice2": "Gretchen Grundler",
+		"choice3": "Polly McShane",
+		"choice4": "Ashley Spinelli",
+		"answer": 4
+	},
+	{
+		"question": "Jak oni się nazywali?",
+		"image": "images/jawkapeli.png",
+		"music": "",
+		"choice1": "Iron Maiden",
+		"choice2": "Iron Weasel",
+		"choice3": "Iron Parrot",
+		"choice4": "Iron Ferret",
+		"answer": 2
+	},
+	{
+		"question": "Co pojawiło się w bliźniakach Cramp?",
+		"image": "images/blizniaki.jpg",
+		"music": "",
+		"choice1": "Żrące środki czyszczące",
+		"choice2": "Mama bliźniaków jako popularna wokalistka",
+		"choice3": "Podróż po organach jednego z bliźniaków",
+		"choice4": "Zwiedzanie studia nagraniowego",
+		"answer": 1
+	},
+	{
+		"question": "Co pojawiło się w Czarodziejach z Waverly Place?",
+		"image": "images/czarodzieje.jpg",
+		"music": "",
+		"choice1": "Zarobkowe granie na ulicy",
+		"choice2": "Oszukujący sprzedawca na pchlim targu",
+		"choice3": "Wzbudzenie do życia Frankensteina-kobiety",
+		"choice4": "Oplucie przez lamę",
+		"answer": 3
+	},
+	{
+		"question": "Co pojawiło się w Świecie Raven?",
+		"image": "images/raven.jpg",
+		"music": "",
+		"choice1": "Podróże między wymiarami",
+		"choice2": "Przewidywanie przyszłości",
+		"choice3": "Super siłacze",
+		"choice4": "Poskramianie żywiołów",
+		"answer": 2
+	},
+	{
+		"question": "Dokończ epicki tekst Kim Kolwiek: 'To był...'",
+		"image": "images/kim.png",
+		"music": "",
+		"choice1": "pikuś!",
+		"choice2": "żaden problem!",
+		"choice3": "pryszcz!",
+		"choice4": "mój chłopak, Ty tępa strzygo!",
+		"answer": 3
+	},
+	{
+		"question": "Wskaż epicki tekst Mucha Luchi",
+		"image": "images/mucha.jpg",
+		"music": "",
+		"choice1": "Ay, caramba!",
+		"choice2": "Maldicion!",
+		"choice3": "Estoy golpeando!",
+		"choice4": "Ah me cai!",
+		"answer": 1
+	},
+	{
+		"question": "Dokończ epicki tekst Jimmy'ego Cool: 'Totalnie starłem sobie...'",
+		"image": "images/jimmy.jpg",
+		"music": "",
+		"choice1": "parówę!",
+		"choice2": "marchew!",
+		"choice3": "ser!",
+		"choice4": "ogóra!",
+		"answer": 3
+	},
+{
+		"question": "Jaką moc specjalną miał Kronk?",
+		"image": "images/kronk.jpg",
+		"music": "",
+		"choice1": "super szybkie liczenie",
+		"choice2": "poskramianie lam",
+		"choice3": "gotowanie",
+		"choice4": "taniec",
+		"answer": 3
+	},
+{
+		"question": "Jaką moc specjalną miała Hay Lin?",
+		"image": "images/haylin.jpg",
+		"music": "",
+		"choice1": "kontrolowanie powietrza",
+		"choice2": "kontrolowanie wody",
+		"choice3": "kontrolowanie ziemi",
+		"choice4": "kontrolowanie ognia",
+		"answer": 1
+	},
+{
+		"question": "Jaką moc specjalną miała Dee Dee?",
+		"image": "images/deedee.jpg",
+		"music": "",
+		"choice1": "moc różowych butów",
+		"choice2": "moc blond włosów",
+		"choice3": "moc niebieskich oczu",
+		"choice4": "moc szerokiego uśmiechu",
+		"answer": 2
+	},
+{
+		"question": "Skąd pochodziło mleko na lody Fineasza i Ferba?",
+		"image": "images/lody.jpg",
+		"music": "",
+		"choice1": "z gór",
+		"choice2": "z księżyca",
+		"choice3": "z chmur",
+		"choice4": "z marsa",
+		"answer": 2
+	},
+{
+		"question": "Jaki jest sposób jedzenia jogurtu przez Jimmy'ego, który najbardziej podoba się Sarze?",
+		"image": "images/jimmy.png",
+		"music": "",
+		"choice1": "małym paluszkiem",
+		"choice2": "ciasteczkiem",
+		"choice3": "łokciem",
+		"choice4": "językiem, bez łyżeczki",
+		"answer": 4
+	},
+{
+		"question": "Co tata ze Świata Raven zgubił w torcie?",
+		"image": "images/ravendad.jpg",
+		"music": "",
+		"choice1": "obrączkę",
+		"choice2": "pieniądze",
+		"choice3": "zęba",
+		"choice4": "siebie",
+		"answer": 1
+	},
+{
+		"question": "Czego to jest czołówka?",
+		"image": "",
+		"music": "sounds/wymien.mp3",
+		"choice1": "WIEM!",
+		"choice2": "nie wiem",
+		"choice3": "nie wiem",
+		"choice4": "nie wiem",
+		"answer": 1
+	},
+{
+		"question": "Czego to jest czołówka?",
+		"image": "",
+		"music": "sounds/edd.mp3",
+		"choice1": "WIEM!",
+		"choice2": "nie wiem",
+		"choice3": "nie wiem",
+		"choice4": "nie wiem",
+		"answer": 1
+	},
+{
+		"question": "Czego to jest czołówka?",
+		"image": "",
+		"music": "sounds/odlot.mp3",
+		"choice1": "WIEM!",
+		"choice2": "nie wiem",
+		"choice3": "nie wiem",
+		"choice4": "nie wiem",
+		"answer": 1
+	},
+{
+		"question": "Z jakiej bajki i z jakiego odcinku pochodzi ta piosenka?",
+		"image": "",
+		"music": "sounds/lancuch.mp3",
+		"choice1": "WIEM!",
+		"choice2": "nie wiem",
+		"choice3": "nie wiem",
+		"choice4": "nie wiem",
+		"answer": 1
+	},
+{
+		"question": "Z jakiej bajki i z jakiego odcinku pochodzi ta piosenka?",
+		"image": "",
+		"music": "sounds/kuchany.mp3",
+		"choice1": "WIEM!",
+		"choice2": "nie wiem",
+		"choice3": "nie wiem",
+		"choice4": "nie wiem",
+		"answer": 1
+	},
+{
+		"question": "Z jakiej bajki i z jakiego odcinku pochodzi ta piosenka?",
+		"image": "",
+		"music": "sounds/koled.mp3",
+		"choice1": "WIEM!",
+		"choice2": "nie wiem",
+		"choice3": "nie wiem",
+		"choice4": "nie wiem",
+		"answer": 1
+	}
+]
